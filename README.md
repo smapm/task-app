@@ -11,7 +11,7 @@ A task can be anything which you are planning to do (e.g.) "purchase vegetables"
 
 This application provides an interface where a user can create any number of tasks.
 It also provides the ability to 
-( mark a task as completed or not)
+(update a task as completed or not)
 (Filter tasks based on various query parameters)
 (Delete a task) etc..
 by using various REST API's provided 
@@ -25,7 +25,7 @@ logged in to the application.
 
 ####### One Amazing thing as well ####
 
-I suggest you to create an account with your own email address, so that you will receive a welcome mail in your inbox...
+I suggest you to create a user with your own email address, so that you will receive a welcome mail in your inbox...
 Directly from the application ;)
 Similarly u will also receive a mail from me automatically if you delete your account.
 
