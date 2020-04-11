@@ -33,7 +33,7 @@ P.S: Some times the mail will endup in you spam folder!!!!   :|  so don't compla
 
 I have used Send grid mail service to implement this functionality..
 
-  ### Thank you guys... LOVE U.... Hope this corona shit brings out the best in you... feel free to share with your buddies as well.
+  ### Thank you guys... LOVE U.... Hope this corona shit brings out the best in us... feel free to share with your buddies as well.
   
   
   --------------------------------------API GUIDE from blow-----------------------------------------------------
